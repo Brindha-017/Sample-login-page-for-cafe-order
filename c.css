@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: rgb(15, 15, 14);
+}
+h1{
+    background-image: url("OIP.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:rgb(243, 239, 239);
+    background-color:#39d0d8;
+}
+h2{
+    color: rgb(9, 9, 9);
+    background-color: rgba(26, 183, 173, 0.685);
+}
